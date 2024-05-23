@@ -1,1 +1,1 @@
-# TOM-projekt
+# Medicl image segmentation
